@@ -1,12 +1,17 @@
 <html>
+ 
 <table>
  <tr><td><a href="README-en.md" ><img src="./assets/US_flag.png" alt="US flag" width="24px" > English ;</a></td></tr>
- <tr><td><a href="https://github.com/Paulo-Ricard0"><img src="./assets/Brazil_flag.png" alt="Brazil flag" width="24px"> Português ;</a></td></tr>
+ <tr><td><a href="https://github.com/CristianDeveloperk"><img src="./assets/Brazil_flag.png" alt="Brazil flag" width="24px"> Português ;</a></td></tr>
 </table>
+
   
+
+         
   <header>
-  <div id="header">
-    <p align="center">
+  <div id="header" align="center">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" >
+    <p>
     <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=3&pause=1000&color=533CFF&center=true&vCenter=true&repeat=false&width=435&height=25&lines=Luan+Cristian" alt="Luan Cristian" /></a>
     </p>
       
@@ -15,7 +20,7 @@
   </p>
     </div>
   </header>
-</html>
+
 
 
 <div align="center">
@@ -59,13 +64,12 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-
+   
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ###
+</html>
