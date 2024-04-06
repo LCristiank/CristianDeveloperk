@@ -74,7 +74,7 @@
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CristianDeveloperk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CristianDeveloperk/CristianDeveloperk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ###
