@@ -69,7 +69,11 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CristianDeveloper/CristianDeveloperk/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ###
+
 </html>
