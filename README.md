@@ -93,5 +93,15 @@
     <img alt="Serpente comendo minhas contribuições" src="https://raw.githubusercontent.com/CristianDeveloperk/CristianDeveloperk/output/github-contribution-grid-snake-dark.svg" />
   </div>
 
+  <br><br>
+
+<div align="center" font-size="12px">
+
+
+Feito com 💙 por [Luan Cristian](https://www.linkedin.com/in/luancristian-dev/)
+
+
+</div>
+
 </body>
 </html>
