@@ -121,5 +121,20 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CristianDeveloperk/CristianDeveloperk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
+
+<br><br>
+
+<div align="center" font-size="12px">
+
+
+Made with 💙 by [Luan Cristian](https://www.linkedin.com/in/luancristian-dev/)
+
+
+</div>
+
 ###
+
+
+
+
 </html>
