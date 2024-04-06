@@ -17,7 +17,7 @@
   </header>
 
   <details open id="stats"> 
-      <summary><a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=220&height=25&lines=%F0%9F%93%8A+Estatisticas+Github" alt="Typing SVG" /></a></summary>
+      <summary><a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=220&height=25&lines=%F0%9F%93%8A+Estatisticas+Github" alt="Typing SVG" /></a></summary>
    
    <table style="border:none;margin:0 auto">
       <tr style="border:none;">
@@ -30,13 +30,15 @@
 ###
 
 
+<h5>ㅤㅤㅤㅤ</h5>
+
 
 ###
 
 
   <details closed id="tool&skills">
     <summary>
-     <a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=1&pause=1000&color=A276F9&center=true&vCenter=true&repeat=false&width=320&height=25&lines=%F0%9F%9B%A0%EF%B8%8F+Habilidades+e+Ferramentas" alt="Typing SVG" /></a>
+     <a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=320&height=25&lines=%F0%9F%9B%A0%EF%B8%8F+Habilidades+e+Ferramentas" alt="Typing SVG" /></a>
     </summary> 
    
    <div align="center">
@@ -61,6 +63,15 @@
       <img width="12" />
     </div>
   </details>
+
+###
+
+
+<h2>ㅤㅤㅤㅤ</h2>
+
+
+###
+
 
   <div>
     <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=140&height=25&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Sobre+mim" alt="Typing SVG"/></a>
