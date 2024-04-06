@@ -47,7 +47,7 @@
 
 <details closed id="tool&skills">
 
-  <summary><a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=150&height=25&lines=🔎+Skills+And+Tools" alt="Typing SVG" /></a></summary> 
+  <summary><a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=200&height=25&lines=🔎+Skills+And+Tools" alt="Typing SVG" /></a></summary> 
 
   
 <div align="center">
