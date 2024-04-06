@@ -23,18 +23,33 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristiandeveloperk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiandeveloperk&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<details open id="stats"> 
+  <summary><a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=150&height=25&lines=%F0%9F%93%8A+Github+Stats" alt="Typing SVG" /></a></summary>
+  
+  <table style="border:none;margin:0 auto">
+    <tr style="border:none;">
+      <td style="border:none;"><img src="https://github-readme-stats.vercel.app/api?username=CristianDeveloperk&show_icons=true&disable_animations=true&rank_icon=github&count_private=true&hide_border=true&title_color=4658ff&icon_color=4658ff&text_color=e3deee&bg_color=00000000"/></td>
+      <td style="border:none;"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianDeveloperk&layout=compact&langs_count=7&disable_animations=false&hide_border=true&title_color=4658ff&text_color=ffffff&bg_color=00000000&card_width=400"/></td>
+    </tr>
+  </table>
+  
+</details>
 
 
 
 ###
 
 
+<h5>ㅤㅤㅤㅤ</h5>
+
+
 ###
 
+<details closed id="tool&skills">
+
+  <summary><a href="#Skills"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=150&height=25&lines=🔎+Skills+Tolls" alt="Typing SVG" /></a></summary> 
+
+  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -59,15 +74,44 @@
 <!--   <img width="12" /> -->
 </div>
 
+<div align="center">
+  <p>ㅤ</p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img width="12" />
+</div>
+</details>
+
 ###
 
-<div align="center">
- <a>
-   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
- </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-   
+
+
+<h2>ㅤㅤ</h2>
+
+
+
+###
+
+
+<div>
+ <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=140&height=25&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+me" alt="Typing SVG"/></a>
+
+ - 🤓 Studying TyperScript, Nest, PHP, NodeJS and English;
+ - 🔎 My goal as a programmer is to learn and challenge myself in the field of programming, enabling me to develop and become a great programmer;
+ - 💙 I love Python 🐍;
+ - 🧠 "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+
+
+   <div align="center">
+   <a>
+     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+   </a>
+   <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+   </a>
+   <a href = "https://www.linkedin.com/in/luancristian-dev/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+   </a>
+   </div>
 </div>
 
 ###
