@@ -1,7 +1,7 @@
 
   <table>
     <tr><td><a href="README-en.md"><img src="./assets/US_flag.png" alt="Bandeira dos EUA" width="24px"> Inglês;</a></td></tr>
-    <tr><td><a href="https://github.com/CristianDeveloperk"><img src="./assets/Brazil_flag.png" alt="Bandeira do Brasil" width="24px"> Português;</a></td></tr>
+    <tr><td><a href="https://github.com/LCristiank"><img src="./assets/Brazil_flag.png" alt="Bandeira do Brasil" width="24px"> Português;</a></td></tr>
   </table>
 
   <header>
@@ -21,8 +21,8 @@
    
    <table style="border:none;margin:0 auto">
       <tr style="border:none;">
-        <td style="border:none;"><img src="https://github-readme-stats.vercel.app/api?username=CristianDeveloperk&show_icons=true&disable_animations=false&rank_icon=github&count_private=true&hide_border=true&title_color=4658ff&icon_color=4658ff&locale=pt-br&text_color=e3deee&bg_color=00000000"/></td>
-        <td style="border:none;"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianDeveloperk&layout=compact&langs_count=7&disable_animations=false&hide_border=true&title_color=4658ff&text_color=ffffff&bg_color=00000000&card_width=400&locale=pt-br"/></td>
+        <td style="border:none;"><img src="https://github-readme-stats.vercel.app/api?username=LCristiank&show_icons=true&disable_animations=false&rank_icon=github&count_private=true&hide_border=true&title_color=4658ff&icon_color=4658ff&locale=pt-br&text_color=e3deee&bg_color=00000000"/></td>
+        <td style="border:none;"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCristiank&layout=compact&langs_count=7&disable_animations=false&hide_border=true&title_color=4658ff&text_color=ffffff&bg_color=00000000&card_width=400&locale=pt-br"/></td>
       </tr>
     </table>
   </details>
