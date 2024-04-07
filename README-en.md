@@ -28,8 +28,8 @@
   
   <table style="border:none;margin:0 auto">
     <tr style="border:none;">
-      <td style="border:none;"><img src="https://github-readme-stats.vercel.app/api?username=CristianDeveloperk&show_icons=true&disable_animations=true&rank_icon=github&count_private=true&hide_border=true&title_color=4658ff&icon_color=4658ff&text_color=e3deee&bg_color=00000000"/></td>
-      <td style="border:none;"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianDeveloperk&layout=compact&langs_count=7&disable_animations=false&hide_border=true&title_color=4658ff&text_color=ffffff&bg_color=00000000&card_width=400"/></td>
+      <td style="border:none;"><img src="https://github-readme-stats.vercel.app/api?username=LCristiank&show_icons=true&disable_animations=true&rank_icon=github&count_private=true&hide_border=true&title_color=4658ff&icon_color=4658ff&text_color=e3deee&bg_color=00000000"/></td>
+      <td style="border:none;"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCristiank&layout=compact&langs_count=7&disable_animations=false&hide_border=true&title_color=4658ff&text_color=ffffff&bg_color=00000000&card_width=400"/></td>
     </tr>
   </table>
   
