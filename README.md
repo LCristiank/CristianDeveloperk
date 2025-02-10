@@ -11,7 +11,7 @@
         <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=3&pause=1000&color=533CFF&center=true&vCenter=true&repeat=false&width=435&height=25&lines=Luan+Cristian" alt="Luan Cristian" /></a>
       </p>
       <p align="center">
-        <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&pause=1000&color=533CFF&center=true&vCenter=true&width=490&height=30&lines=Olá+Mundo!+🌎;Bem-vindo+ao+meu+perfil!+👥;Sou+desenvolvedor+FullStack;Apaixonado+por+programação." alt="Typing SVG" /></a>
+        <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&pause=1000&color=533CFF&center=true&vCenter=true&width=490&height=30&lines=Olá+Mundo!+🌎;Bem-vindo+ao+meu+perfil!+👥;Apaixonado+por+programação." alt="Typing SVG" /></a>
       </p>
     </div>
   </header>
@@ -76,9 +76,7 @@
   <div>
     <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&repeat=false&width=140&height=25&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Sobre+mim" alt="Typing SVG"/></a>
     <ul>
-      <li>🤓 Estudando TyperScript, Nest, PHP, NodeJS e inglês;</li>
-      <li>🔎 Meu objetivo como programador é aprender e me desafiar no campo da programação, me permitindo desenvolver e me tornar um grande programador;</li>
-      <li>💙 Eu amo Python 🐍;</li>
+      <li>🤓 Estudando, PHP, Java, NodeJS e inglês;</li>
       <li>🧠 "O sucesso não é final, o fracasso não é fatal: é a coragem de continuar que conta." - Winston Churchill</li>
     </ul>
     <div align="center">
