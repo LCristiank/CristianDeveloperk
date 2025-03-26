@@ -50,7 +50,6 @@
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="Logo CSS3"  />
       <img width="12" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="45" alt="PostgreSQL" />
     </div>
     <div align="center">
       <p>ㅤ</p>
